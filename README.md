@@ -1,6 +1,7 @@
 # The Lift
 
-It is horror with a soviet aesthetic. It is the fear of your childhood (or maybe adulthood too, who knows).
+It is an indie horror with a soviet aesthetic. It is the true fear of your childhood (or maybe adulthood too, who knows).    
+It is The Lift.
 
 ## Tools
 
