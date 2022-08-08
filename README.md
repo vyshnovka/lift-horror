@@ -15,3 +15,7 @@ It is The Lift.
 1. Install Unity 2021.3.5 from [archive](https://unity3d.com/get-unity/download/archive).    
 2. Clone this repository using `git clone https://github.com/vyshnovka/lift-horror.git` in Git Bash.    
 3. Open created folder as a project in Unity Hub.    
+
+## Credits
+
+[Soviet elevator](https://sketchfab.com/3d-models/old-soviet-elevator-b8f9098e1a304406a7556ac871bf0f41) 3D model created by **Shedmon**.
